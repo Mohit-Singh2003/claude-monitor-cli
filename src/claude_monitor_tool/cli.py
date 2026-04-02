@@ -98,7 +98,7 @@ def main() -> None:
 
     if args.version:
         from claude_monitor_tool import __version__
-        print(f"claude-monitor-tool {__version__}")
+        print(f"claude-monitor-cli {__version__}")
         sys.exit(0)
 
     if args.debug:

@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "claude-monitor-cli"
-version = "4.0.0"
+version = "4.0.1"
 description = "A beautiful, interactive terminal monitor for Claude AI usage — real-time quotas, burn rate, cost analytics, and ML predictions."
 readme = "README.md"
 license = "MIT"
